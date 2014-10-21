@@ -1,4 +1,4 @@
 facepalm-guru
 =============
 
-Playing with dynamically resizing image
+Playing with dynamically resizing image in HTML
